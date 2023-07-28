@@ -1,0 +1,32 @@
+/*Pongo un comentario*/
+
+body{
+    background-color:#fffe8a; 
+    color:#e97891; 
+}
+h3{color:purple;
+}
+h1{
+    color:brown
+}
+.img1{ 
+    width: 5cm;
+    height: 5cm;
+    border-style:dashed;
+    border-color:rgb(0, 241, 72);
+    padding: 15px;   
+}
+.img2{
+    width:5cm;
+    height:5cm;
+    border-style: dashed;
+    border-color: #e97891;
+    padding: 15px;
+}
+.img3{
+    width:5cm;
+    height:5cm;
+    border-style: dashed;
+    border-color: #e97891;
+    padding: 15px;
+    }
